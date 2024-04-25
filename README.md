@@ -7,3 +7,4 @@
 - [DALL·E 2、 Stable Diffusion、 Midjourney的区别](./2023/DALL·E%202、%20Stable%20Diffusion、%20Midjourney的区别.md)
 - [一次性讲清HTTP](./2024/一次性讲清HTTP.md)
 - [grpc-web实践](./2024/gRPC-web实践.md)
+- [第一性原理](./2024/第一性原理.md)
