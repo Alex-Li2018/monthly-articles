@@ -8,4 +8,4 @@
 - [一次性讲清HTTP](./2024/一次性讲清HTTP.md)
 - [grpc-web实践](./2024/gRPC-web实践.md)
 - [第一性原理](./2024/第一性原理.md)
-- [分词器Tokenizer在Copilot 中应用](./2024/分词器Tokenizer在Copilot 中应用.md)
+- [分词器Tokenizer在Copilot中应用](./2024/%E5%88%86%E8%AF%8D%E5%99%A8Tokenizer%E5%9C%A8Copilot%20%E4%B8%AD%E5%BA%94%E7%94%A8.md)
